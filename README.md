@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **Orgito Leka**
+#  Hi, I'm **Orgito **
 
-## 🚀 Cybersecurity | Full‑Stack Engineering | DevOps | 42 Student | Fedora Project Contributor
+## 🚀 Cybersecurity Researcher | Software Engineer | 42 Student 
 
 ---
 
@@ -32,37 +32,18 @@ Kali Linux · Fedora · BlackArch
 ### **Languages**
 C · Python · JavaScript · TypeScript · Bash · SQL
 
-### **Backend & Frontend**
-Node.js · Express · NestJS · React · Next.js
 
 ### **Databases**
-MySQL · PostgreSQL · Redis
+MySQL · PostgreSQL 
 
 ### **DevOps / Infrastructure**
 Docker · Docker Compose · Github Actions · Linux administration · Virtualization
 
 ---
 
-## 🎯 Current Focus
-
-- Completing 42 foundational projects:  
-  `libft`, `ft_printf`, `get_next_line`, `so_long`, `minishell`, `push_swap`
-- Building stronger cybersecurity methodology through structured practice
-- Contributing more to Fedora, open-source tools, and educational events
-- Improving network analysis, monitoring automation, and system hardening workflows
-
----
-
 ## 🌐 Contact
 
 **GitHub:** https://github.com/orgito1015  
-**LinkedIn:** *(Add your link if desired)*  
-**Email:** *(Optional)*  
 
 ---
 
-## ⚡ Personal Mission
-
-To build secure, reliable, and efficient software while contributing to open‑source ecosystems and strengthening cybersecurity awareness in my community.
-
-> *“Discipline, curiosity, and responsibility are the three pillars of technical mastery.”*
