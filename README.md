@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 Professional Summary
+##  Professional Summary
 
 I am a technology‑driven Cybersecurity and Software Engineering practitioner with experience across  
 **Web Development, Systems Programming, Linux, Networking, and Security Automation**.  
@@ -14,7 +14,7 @@ I actively contribute to the **Fedora Project**, support open‑source communiti
 
 ---
 
-## 🔐 Cybersecurity Profile
+##  Cybersecurity Profile
 
 - Experienced in network and web penetration testing  
 - Familiar with OWASP Top 10, secure coding standards, and Linux hardening  
