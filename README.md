@@ -27,17 +27,26 @@ Kali Linux · Fedora · BlackArch
 
 ---
 
-## 🧩 Software Engineering
+🛡️ Cybersecurity
+Core Skills
 
-### **Languages**
-C · Python · JavaScript · TypeScript · Bash · SQL
+Vulnerability Assessment · Penetration Testing · Secure Code Review · Threat Modeling · Incident Response · Network Security · Red/Blue Team Techniques
 
+Tools & Frameworks
 
-### **Databases**
-MySQL · PostgreSQL 
+Burp Suite · Nmap · Wireshark · Metasploit · OWASP ZAP · Nikto · Hydra · Hashcat · Kali Linux · Parrot OS
 
-### **DevOps / Infrastructure**
-Docker · Docker Compose · Github Actions · Linux administration · Virtualization
+Programming / Scripting
+
+C · Python · Bash · JavaScript · SQL (Injection Testing) · Regex
+
+Security Domains
+
+Web Application Security · Network Penetration Testing · Cryptography Basics · Malware Analysis · Reverse Engineering (Beginner/Intermediate)
+
+DevSecOps
+
+Docker Security · GitHub Actions Security · Linux Hardening · Virtualization Security · Secure Configuration & Compliance
 
 ---
 
