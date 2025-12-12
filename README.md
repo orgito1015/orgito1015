@@ -1,6 +1,6 @@
 #  Hi, I'm Orgito  (G1t0 a.k.a Pr0f3550r1)
 
-## Cybersecurity Researcher | Software Engineer | Computer Sience & 42 Student 
+## Cybersecurity Researcher | Software Engineer | Computer Science & 42 Student 
 
 ---
 
