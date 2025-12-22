@@ -1,61 +1,74 @@
-# Hi, I’m Orgito  
-**G1t0** · *a.k.a.* **Pr0f3550r1**
 
-**Cybersecurity Researcher · Software Engineer · Computer Science & 42 Student**
+# Orgito
+`G1t0` · `Pr0f3550r1`
 
----
-
-## Professional Summary
-
-I am a technology-driven cybersecurity and software engineering practitioner with hands-on experience across **web development, systems programming, Linux, networking, and security automation**.
-
-I am currently pursuing the **42 Common Core**, with a strong focus on **low-level programming in C**, memory management, operating system internals, and **secure software design**.
-
-I actively contribute to the **Fedora Project**, support open-source communities, and continuously sharpen my skills through **CTFs, security research, and real-world challenges**.
+Cybersecurity Researcher · Software Engineer  
+Computer Science & 42 Network Student
 
 ---
 
-## Cybersecurity Profile
+## Profile
 
-- Experience in **network and web penetration testing**
-- Familiar with **OWASP Top 10**, secure coding practices, and Linux hardening
-- Active **CTF participant** (web, crypto, forensics, OSINT, reverse engineering)
-- Strong emphasis on **automation, analysis, and tooling**
+Cybersecurity-focused software engineer with practical experience in **system security, web application security, and low-level programming**.
 
----
+Currently completing the **42 Common Core**, with an emphasis on **C programming, memory management, operating system fundamentals, and secure software design**.
 
-## 🛡️ Core Cybersecurity Skills
-
-- Vulnerability Assessment & Penetration Testing  
-- Secure Code Review  
-- Threat Modeling  
-- Incident Response  
-- Network Security  
-- Red Team & Blue Team Techniques  
+Actively involved in **open-source ecosystems** (Fedora Project) and continuous skill development through **CTFs, vulnerability research, and hands-on security experimentation**.
 
 ---
 
-## Tools & Frameworks
+## Research Interests
 
-**Security & Analysis**  
-Burp Suite · Nmap · Wireshark · Metasploit · OWASP ZAP · Nikto · SQLMap · Hydra · Hashcat · IDA Free  
+- Vulnerability discovery and root-cause analysis  
+- Secure software design and defensive programming  
+- Web application attack surfaces  
+- Authentication and authorization mechanisms  
+- Linux internals and system hardening  
+- Automation of security testing workflows  
 
-**Operating Systems**  
+Primary focus is on understanding **how vulnerabilities emerge at the code and system level**, and how they can be mitigated through design, configuration, and tooling.
+
+---
+
+## Cybersecurity Experience
+
+- Network and web penetration testing  
+- Practical knowledge of **OWASP Top 10**  
+- Linux hardening and system security  
+- Security automation and scripting  
+- Exposure to both offensive and defensive security methodologies  
+
+CTF categories:  
+`web` · `crypto` · `forensics` · `osint` · `reverse engineering` · `pwn`
+
+---
+
+## Technical Skills
+
+### Security
+- Vulnerability assessment and exploitation  
+- Secure code review  
+- Threat modeling  
+- Incident response  
+- Network security  
+
+### Tools
+Burp Suite · Nmap · Wireshark · Metasploit · OWASP ZAP  
+Nikto · SQLMap · Hydra · Hashcat · IDA Free  
+
+### Operating Systems
 Kali Linux · Fedora · BlackArch · Parrot OS  
-
-**OSINT & Research**  
-OSINT Frameworks · Automation Scripts  
 
 ---
 
 ## Programming & Scripting
 
-- **C** (systems programming, memory, low-level concepts)  
-- **Python** (automation, tooling, analysis)  
-- **Bash** (Linux administration & scripting)  
-- **JavaScript**  
-- **SQL** (injection testing & security analysis)  
-- **Regex**
+- **C** — systems programming, memory management, low-level concepts  
+- **Python** — automation, analysis, tooling  
+- **Bash** — Linux administration and scripting  
+- **JavaScript** — web security context  
+- **SQL** — injection testing and analysis  
+- **Regular Expressions**
 
 ---
 
@@ -71,8 +84,23 @@ OSINT Frameworks · Automation Scripts
 
 ## DevSecOps & Infrastructure Security
 
-- Docker & Container Security  
-- GitHub Actions Security  
-- Linux Hardening  
-- Virtualization Security  
-- Secure Configuration & Compliance  
+- Container security (Docker)  
+- CI/CD security (GitHub Actions)  
+- Linux hardening  
+- Virtualization security  
+- Secure configuration and compliance  
+
+---
+
+## Professional Approach
+
+- Methodical and reproducible testing  
+- Emphasis on documentation and clarity  
+- Responsible disclosure principles  
+- Continuous learning through research and experimentation  
+
+---
+
+## Statement
+
+> Focused on understanding systems deeply, identifying weaknesses responsibly, and improving security through sound engineering practices.
