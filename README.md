@@ -8,6 +8,8 @@
                                                                                                                                                                                                                                  
                                                                                                               
 ```
+<img src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
 # Orgito
 `G1t0` · `Pr0f3550r1`
 
