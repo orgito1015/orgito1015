@@ -8,6 +8,7 @@
                                                                                                                                                                                                                                  
                                                                                                               
 ```
+<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/89e9e319-193e-498f-949d-c11c8550986a" />
 
 # Orgito
 `G1t0` · `Pr0f3550r1`
