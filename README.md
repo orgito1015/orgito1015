@@ -13,9 +13,7 @@
 # Orgito
 `G1t0` · `Pr0f3550r1`
 
-Cybersecurity Researcher · Software Engineer  
-Computer Science & 42 Network Student
-
+Cybersecurity Researcher · Software Engineer · Computer Science & 42 Network Student
 ---
 
 ## Profile
