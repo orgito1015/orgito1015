@@ -275,7 +275,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orgito1015&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=orgito1015&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orgito1015&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orgito1015&theme=radical&hide_border=true&area=true" alt="Contribution Graph" width="48%"/>
 
 </div>
 
