@@ -298,12 +298,11 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [Connect for professional networking](https://linkedin.com/in/your-profile) |
+| 💼 **LinkedIn** | [Connect for professional networking](https://www.linkedin.com/in/orgitoleka/) |
 | 🐙 **GitHub** | [@orgito1015](https://github.com/orgito1015) |
-| 🎯 **HackTheBox** | [View my HTB profile](https://app.hackthebox.com/profile/your-id) |
 | 🚩 **TryHackMe** | [View my THM profile](https://tryhackme.com/p/your-profile) |
-| 📧 **Email** | [your.email@example.com](mailto:your.email@example.com) |
-| 🐦 **Twitter** | [@your_handle](https://twitter.com/your_handle) |
+| 📧 **Email** | [your.email@example.com](lekaorgito@gmail.com) |
+| 🐦 **Twitter** | [@your_handle](https://x.com/CTFPlayer1) |
 
 </div>
 
