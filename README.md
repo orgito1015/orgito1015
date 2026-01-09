@@ -302,7 +302,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 | 🐙 **GitHub** | [@orgito1015](https://github.com/orgito1015) |
 | 🚩 **TryHackMe** | [View my THM profile](https://tryhackme.com/p/your-profile) |
 | 📧 **Email** | [lekaorgito@gmail.com](lekaorgito@gmail.com) |
-| 🐦 **Twitter** | [@your_handle](https://x.com/CTFPlayer1) |
+| 🐦 **Twitter** | [@CTFPlayer1](https://x.com/CTFPlayer1) |
 
 </div>
 
