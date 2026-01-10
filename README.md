@@ -45,26 +45,26 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🔍 Security Research
-- 🐛 Vulnerability discovery and root-cause analysis  
-- 🛡️ Secure software design and defensive programming  
-- 🌐 Web application attack surfaces  
-- 🔐 Authentication and authorization mechanisms  
+-  Vulnerability discovery and root-cause analysis  
+-  Secure software design and defensive programming  
+-  Web application attack surfaces  
+-  Authentication and authorization mechanisms  
 
 </td>
 <td width="50%">
 
 ### ⚙️ System Security
-- 🐧 Linux internals and system hardening  
-- 🤖 Security testing automation  
-- 📦 Container and cloud security
-- 🔒 Cryptographic implementations
+-  Linux internals and system hardening  
+-  Security testing automation  
+-  Container and cloud security
+-  Cryptographic implementations
 
 </td>
 </tr>
@@ -77,18 +77,18 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 ### 🎯 Core Competencies
 
 #### Offensive Security
-- 🔴 **Network & Web Penetration Testing** – Identifying vulnerabilities in web applications and network infrastructure
-- 📋 **OWASP Top 10** – Practical exploitation and remediation of common web vulnerabilities
-- 💉 **SQL Injection & XSS** – Advanced injection techniques and bypass methods
-- 🔓 **Authentication Bypass** – Session management, JWT, OAuth vulnerabilities
-- 🗂️ **Security Misconfigurations** – Server hardening and secure deployment practices
+-  **Network & Web Penetration Testing** – Identifying vulnerabilities in web applications and network infrastructure
+-  **OWASP Top 10** – Practical exploitation and remediation of common web vulnerabilities
+-  **SQL Injection & XSS** – Advanced injection techniques and bypass methods
+-  **Authentication Bypass** – Session management, JWT, OAuth vulnerabilities
+-  **Security Misconfigurations** – Server hardening and secure deployment practices
 
 #### Defensive Security
-- 🔐 **Linux Hardening** – SELinux, AppArmor, iptables, fail2ban
-- 🛡️ **Secure Code Review** – Static analysis and manual code auditing
-- 📊 **Security Monitoring** – Log analysis, SIEM, intrusion detection
-- 🚨 **Incident Response** – Threat detection, forensics, and remediation
-- 🏗️ **Threat Modeling** – STRIDE, attack trees, risk assessment
+-  **Linux Hardening** – SELinux, AppArmor, iptables, fail2ban
+-  **Secure Code Review** – Static analysis and manual code auditing
+-  **Security Monitoring** – Log analysis, SIEM, intrusion detection
+-  **Incident Response** – Threat detection, forensics, and remediation
+-  **Threat Modeling** – STRIDE, attack trees, risk assessment
 
 ### 🚩 CTF & Competitive Security
 
@@ -99,7 +99,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 - 📝 Security writeups and vulnerability disclosures
 - 🎓 Continuous skill development through practical challenges
 
-### 🐛 Security Research & Projects
+###  Security Research & Projects
 
 - **Vulnerability Assessment** – Systematic evaluation of application security posture
 - **Exploit Development** – Understanding and developing proof-of-concept exploits
@@ -108,7 +108,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
 ### 🔐 Security Tools & Frameworks
 
@@ -208,7 +208,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 **Additional Languages:** JavaScript (Node.js) · SQL · PowerShell · Regular Expressions · Assembly (x86/x64)
 
-### 🏗️ Security Frameworks & Methodologies
+### 🏗️Security Frameworks & Methodologies
 
 | Framework | Focus Area | Proficiency |
 |-----------|-----------|-------------|
@@ -220,7 +220,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-## 🚀 DevSecOps & Infrastructure Security
+##  DevSecOps & Infrastructure Security
 
 ### 🐳 Container Security
 - **Docker** – Secure container configuration and image hardening
