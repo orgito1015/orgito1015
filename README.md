@@ -308,6 +308,22 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
+## Join my Discord Community
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💬📢 **Discord** | [CyberSecurity Enthusiasts](https://discord.gg/Th5KPV8xmZ) |
+
+</div>
+
+---
+
+
+
+
+
 ## 💡 Philosophy
 
 ```python
