@@ -22,7 +22,7 @@
 # 👨‍💻 Orgito Leka
 ### `G1t0` · `Pr0f3550r1`
 
-**🔐 Cybersecurity Researcher** · **💻 Software Engineer** · **🎓 Computer Science & 42 Network Student**
+** Cybersecurity Researcher** · ** Software Engineer** · ** Computer Science & 42 Network Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orgitoleka/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/orgito1015)
@@ -33,7 +33,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 Cybersecurity-focused software engineer with practical experience in **system security**, **web application security**, and **low-level programming**.
 
@@ -51,7 +51,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 <tr>
 <td width="50%">
 
-### 🔍 Security Research
+###  Security Research
 -  Vulnerability discovery and root-cause analysis  
 -  Secure software design and defensive programming  
 -  Web application attack surfaces  
@@ -60,7 +60,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 </td>
 <td width="50%">
 
-### ⚙️ System Security
+###  System Security
 -  Linux internals and system hardening  
 -  Security testing automation  
 -  Container and cloud security
@@ -72,9 +72,9 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-## 🛡️ Cybersecurity Experience
+##  Cybersecurity Experience
 
-### 🎯 Core Competencies
+###  Core Competencies
 
 #### Offensive Security
 -  **Network & Web Penetration Testing** – Identifying vulnerabilities in web applications and network infrastructure
@@ -90,14 +90,14 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 -  **Incident Response** – Threat detection, forensics, and remediation
 -  **Threat Modeling** – STRIDE, attack trees, risk assessment
 
-### 🚩 CTF & Competitive Security
+###  CTF & Competitive Security
 
 **Active Categories:** Web · Crypto · Forensics · OSINT · Reverse Engineering · PWN · Steganography
 
 #### Notable Achievements
-- 🏆 Participated in multiple CTF competitions (HTB, THM, PicoCTF)
-- 📝 Security writeups and vulnerability disclosures
-- 🎓 Continuous skill development through practical challenges
+-  Participated in multiple CTF competitions (HTB, THM, PicoCTF)
+-  Security writeups and vulnerability disclosures
+-  Continuous skill development through practical challenges
 
 ###  Security Research & Projects
 
@@ -110,10 +110,10 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ##  Technical Arsenal
 
-### 🔐 Security Tools & Frameworks
+###  Security Tools & Frameworks
 
 <details>
-<summary><b>🎯 Penetration Testing & Exploitation</b></summary>
+<summary><b> Penetration Testing & Exploitation</b></summary>
 
 ```
 ┌─ Web Application Testing
@@ -208,7 +208,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 **Additional Languages:** JavaScript (Node.js) · SQL · PowerShell · Regular Expressions · Assembly (x86/x64)
 
-### 🏗️Security Frameworks & Methodologies
+### Security Frameworks & Methodologies
 
 | Framework | Focus Area | Proficiency |
 |-----------|-----------|-------------|
@@ -222,19 +222,19 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ##  DevSecOps & Infrastructure Security
 
-### 🐳 Container Security
+###  Container Security
 - **Docker** – Secure container configuration and image hardening
 - **Docker Compose** – Multi-container security orchestration
 - **Container Scanning** – Vulnerability assessment in images (Trivy, Clair)
 - **Runtime Security** – Container isolation and monitoring
 
-### ⚙️ CI/CD Security
+###  CI/CD Security
 - **GitHub Actions** – Secure pipeline design and secret management
 - **SAST/DAST** – Static and dynamic security testing integration
 - **Dependency Scanning** – Automated vulnerability detection (Dependabot, Snyk)
 - **Security Gates** – Pre-deployment security checks
 
-### 🔒 Infrastructure Hardening
+###  Infrastructure Hardening
 - **Linux Security Modules** – SELinux, AppArmor implementation
 - **Firewall Management** – iptables, nftables, UFW
 - **SSH Hardening** – Key-based authentication, fail2ban
@@ -248,23 +248,23 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-## 📚 Certifications & Learning Path
+##  Certifications & Learning Path
 
-### 🎓 Current Certifications
+###  Current Certifications
 
 |  **Current Certifications** | (https://www.credly.com/users/orgito-leka) |
 
-### 🎯 Target Certifications
+###  Target Certifications
 - [ ] **OSCP** (Offensive Security Certified Professional)
 - [ ] **CEH** (Certified Ethical Hacker)
 - [ ] **CompTIA Security+**
 - [ ] **eJPT** (eLearnSecurity Junior Penetration Tester)
 
 ### 📖 Continuous Learning
-- 🎓 **42 Network** – Core curriculum with focus on C programming and Unix systems
-- 📚 **Security Research** – Daily vulnerability research and exploit analysis
-- 🧪 **Lab Practice** – Dedicated home lab for security testing and research
-- 📝 **Write-ups & Documentation** – Sharing knowledge through technical documentation
+-  **42 Network** – Core curriculum with focus on C programming and Unix systems
+-  **Security Research** – Daily vulnerability research and exploit analysis
+-  **Lab Practice** – Dedicated home lab for security testing and research
+-  **Write-ups & Documentation** – Sharing knowledge through technical documentation
 
 ---
 
@@ -282,13 +282,13 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-## 🏆 Achievements & Highlights
+##  Achievements & Highlights
 
 ```text
-🎯 Active CTF Competitor              🔐 OWASP Top 10 Practitioner
-🐛 Security Researcher                 💻 Open Source Contributor
-🏗️ Secure Software Developer          🎓 42 Network Student
-🐧 Linux Security Enthusiast          🚀 DevSecOps Advocate
+ Active CTF Competitor              OWASP Top 10 Practitioner
+ Security Researcher                Open Source Contributor
+ Secure Software Developer          42 Network Student
+ Linux Security Enthusiast          DevSecOps Advocate
 ```
 
 ---
@@ -299,11 +299,11 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [Connect for professional networking](https://www.linkedin.com/in/orgitoleka/) |
-| 🐙 **GitHub** | [@orgito1015](https://github.com/orgito1015) |
-| 🚩 **TryHackMe** | [View my THM profile](https://tryhackme.com/p/your-profile) |
-| 📧 **Email** | [lekaorgito@gmail.com](lekaorgito@gmail.com) |
-| 🐦 **Twitter** | [@CTFPlayer1](https://x.com/CTFPlayer1) |
+|  **LinkedIn** | [Connect for professional networking](https://www.linkedin.com/in/orgitoleka/) |
+|  **GitHub** | [@orgito1015](https://github.com/orgito1015) |
+|  **TryHackMe** | [View my THM profile](https://tryhackme.com/p/your-profile) |
+|  **Email** | [lekaorgito@gmail.com](lekaorgito@gmail.com) |
+|  **Twitter** | [@CTFPlayer1](https://x.com/CTFPlayer1) |
 
 </div>
 
