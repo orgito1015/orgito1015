@@ -241,7 +241,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 - **System Auditing** – auditd, AIDE, log aggregation
 - **Virtualization Security** – KVM, QEMU, hypervisor hardening
 
-### ☁️ Cloud Security (Fundamentals)
+###  Cloud Security (Fundamentals)
 - **Security Best Practices** – Principle of least privilege, defense in depth
 - **Network Segmentation** – VPC, security groups, network ACLs
 - **Identity & Access Management** – Role-based access control (RBAC)
