@@ -252,7 +252,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ###  Current Certifications
 
-|  **Current Certifications** | (https://www.credly.com/users/orgito-leka) |
+|  **Current Certifications** | https://www.credly.com/users/orgito-leka |
 
 ###  Target Certifications
 - [ ] **OSCP** (Offensive Security Certified Professional)
