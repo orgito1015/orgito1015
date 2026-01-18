@@ -22,7 +22,7 @@
 # 👨‍💻 Orgito Leka
 ### `G1t0` · `Pr0f3550r1`
 
-* Cybersecurity Researcher* · * Software Engineer* · * Computer Science & 42 Network Student*
+ Cybersecurity Researcher ·  Software Engineer · Computer Science & 42 Network Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orgitoleka/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/orgito1015)
