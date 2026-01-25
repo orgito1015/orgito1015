@@ -201,6 +201,11 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
   ├─ Log parsing
   └─ Process monitoring
 ```
+
+</td>
+</tr>
+</table>
+
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -214,9 +219,6 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-</td>
-</tr>
-</table>
 
 **Additional Languages:** JavaScript (Node.js) · SQL · PowerShell · Regular Expressions · Assembly (x86/x64)
 
