@@ -236,34 +236,6 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-##  DevSecOps & Infrastructure Security
-
-###  Container Security
-- **Docker** – Secure container configuration and image hardening
-- **Docker Compose** – Multi-container security orchestration
-- **Container Scanning** – Vulnerability assessment in images (Trivy, Clair)
-- **Runtime Security** – Container isolation and monitoring
-
-###  CI/CD Security
-- **GitHub Actions** – Secure pipeline design and secret management
-- **SAST/DAST** – Static and dynamic security testing integration
-- **Dependency Scanning** – Automated vulnerability detection (Dependabot, Snyk)
-- **Security Gates** – Pre-deployment security checks
-
-###  Infrastructure Hardening
-- **Linux Security Modules** – SELinux, AppArmor implementation
-- **Firewall Management** – iptables, nftables, UFW
-- **SSH Hardening** – Key-based authentication, fail2ban
-- **System Auditing** – auditd, AIDE, log aggregation
-- **Virtualization Security** – KVM, QEMU, hypervisor hardening
-
-###  Cloud Security (Fundamentals)
-- **Security Best Practices** – Principle of least privilege, defense in depth
-- **Network Segmentation** – VPC, security groups, network ACLs
-- **Identity & Access Management** – Role-based access control (RBAC)
-
----
-
 ##  Certifications & Learning Path
 
 ###  Current Certifications
