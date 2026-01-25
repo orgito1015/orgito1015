@@ -221,9 +221,6 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-
-**Additional Languages:** JavaScript (Node.js) · SQL · PowerShell · Regular Expressions · Assembly (x86/x64)
-
 ### Security Frameworks & Methodologies
 
 | Framework | Focus Area | Proficiency |
