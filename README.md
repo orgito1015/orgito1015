@@ -55,6 +55,9 @@ Organizations I have created and actively maintain on GitHub:
 | Organization | Description | Link |
 |:------------:|:------------|:----:|
 | *JACSE* | Journal of Applied Cybersecurity & Systems Engineering | https://github.com/JACSE-Journal |
+| *Tech With Orgito* | Exploring and sharing the best in cybersecurity—tools, articles, books, and more! | https://github.com/TechWithOrgito |
+| *Cybersecurity Enthusiasts from 42* | Cybersecurity Community | https://github.com/Cybersecurity-Enthusiasts-from-42 |
+
 
 
 > **Note:** This section displays only organizations where I am the founder and creator,  
