@@ -47,17 +47,15 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-## 🏢 Organizations I Created
-
+###  Founded Organizations
 <div align="center">
-
-### 🏢 Founded Organizations
 
 Organizations I have created and actively maintain on GitHub:
 
-| Organization | Description | Members | Focus |
-|:------------:|:------------|:-------:|:------|
-| *Coming Soon* | Organizations will be listed here | - | - |
+| Organization | Description | Link |
+|:------------:|:------------|:----:|
+| *JACSE* | Journal of Applied Cybersecurity & Systems Engineering | https://github.com/JACSE-Journal |
+
 
 > **Note:** This section displays only organizations where I am the founder and creator,  
 > not organizations where I am merely a member or contributor.
