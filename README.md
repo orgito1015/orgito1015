@@ -47,6 +47,25 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
+##  Organizations I Created
+
+<div align="center">
+
+### 🏢 Founded Organizations
+
+Organizations I have created and actively maintain on GitHub:
+
+| Organization | Description | Members | Focus |
+|:------------:|:------------|:-------:|:------|
+| *Coming Soon* | Organizations will be listed here | - | - |
+
+> **Note:** This section displays only organizations where I am the founder and creator,  
+> not organizations where I am merely a member or contributor.
+
+</div>
+
+---
+
 ##  Research Interests
 
 <table>
