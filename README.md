@@ -47,7 +47,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 
 ---
 
-##  Organizations I Created
+## 🏢 Organizations I Created
 
 <div align="center">
 
