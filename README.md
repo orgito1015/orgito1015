@@ -74,19 +74,13 @@ Organizations I have created and actively maintain on GitHub:
 <td width="50%">
 
 ###  Security Research
--  Vulnerability discovery and root-cause analysis  
--  Secure software design and defensive programming  
--  Web application attack surfaces  
--  Authentication and authorization mechanisms  
+My research journey explores the intricate world of **vulnerability discovery** through systematic root-cause analysis, where I architect **secure software** using defensive programming principles. I delve deep into **web application attack surfaces**, constantly analyzing how authentication and authorization mechanisms can be strengthened against emerging threats.
 
 </td>
 <td width="50%">
 
 ###  System Security
--  Linux internals and system hardening  
--  Security testing automation  
--  Container and cloud security
--  Cryptographic implementations
+I navigate through **Linux internals** to implement comprehensive system hardening strategies, while developing **automated security testing** frameworks. My work extends into **container and cloud security** architectures, complemented by hands-on experience with **cryptographic implementations** that form the backbone of secure systems.
 
 </td>
 </tr>
@@ -99,34 +93,21 @@ Organizations I have created and actively maintain on GitHub:
 ###  Core Competencies
 
 #### Offensive Security
--  **Network & Web Penetration Testing** – Identifying vulnerabilities in web applications and network infrastructure
--  **OWASP Top 10** – Practical exploitation and remediation of common web vulnerabilities
--  **SQL Injection & XSS** – Advanced injection techniques and bypass methods
--  **Authentication Bypass** – Session management, JWT, OAuth vulnerabilities
--  **Security Misconfigurations** – Server hardening and secure deployment practices
+My offensive security expertise spans **Network & Web Penetration Testing**, where I identify critical vulnerabilities across web applications and network infrastructure. I specialize in **OWASP Top 10** exploitation and remediation, wielding advanced **SQL Injection & XSS** techniques with sophisticated bypass methods. My skills extend to **Authentication Bypass** scenarios involving session management, JWT, and OAuth vulnerabilities, while addressing **Security Misconfigurations** through server hardening and secure deployment practices.
 
 #### Defensive Security
--  **Linux Hardening** – SELinux, AppArmor, iptables, fail2ban
--  **Secure Code Review** – Static analysis and manual code auditing
--  **Security Monitoring** – Log analysis, SIEM, intrusion detection
--  **Incident Response** – Threat detection, forensics, and remediation
--  **Threat Modeling** – STRIDE, attack trees, risk assessment
+On the defensive front, I fortify systems through comprehensive **Linux Hardening** using SELinux, AppArmor, iptables, and fail2ban configurations. My **Secure Code Review** capabilities combine static analysis with meticulous manual code auditing. I excel in **Security Monitoring** through log analysis, SIEM integration, and intrusion detection systems, complemented by **Incident Response** expertise in threat detection, forensics, and remediation. My approach is guided by **Threat Modeling** frameworks including STRIDE, attack trees, and systematic risk assessment.
 
 ###  CTF & Competitive Security
 
 **Active Categories:** Web · Crypto · Forensics · OSINT · Reverse Engineering · PWN · Steganography
 
 #### Notable Achievements
--  Participated in multiple CTF competitions (HTB, THM, PicoCTF)
--  Security writeups and vulnerability disclosures
--  Continuous skill development through practical challenges
+Through my journey in competitive cybersecurity, I've actively participated in multiple CTF competitions across platforms like HTB, THM, and PicoCTF. I document my learning through detailed security writeups and responsible vulnerability disclosures, maintaining continuous skill development through practical challenges that push the boundaries of my expertise.
 
 ###  Security Research & Projects
 
-- **Vulnerability Assessment** – Systematic evaluation of application security posture
-- **Exploit Development** – Understanding and developing proof-of-concept exploits
-- **Security Automation** – Python and Bash scripts for security testing
-- **Open Source Contributions** – Security improvements to public repositories
+My security research encompasses comprehensive **Vulnerability Assessment** through systematic evaluation of application security postures. I engage in **Exploit Development** to understand and create proof-of-concept exploits that demonstrate security weaknesses. I automate security workflows through custom **Python and Bash scripts** for security testing, while contributing **security improvements** to public repositories in the open-source ecosystem.
 
 ---
 
@@ -166,22 +147,14 @@ Organizations I have created and actively maintain on GitHub:
 <details>
 <summary><b>🔍 Reverse Engineering & Binary Analysis</b></summary>
 
-- **IDA Free / Ghidra** – Disassembler and decompiler
-- **GDB / PEDA** – Advanced debugging
-- **radare2 / Cutter** – Binary analysis framework
-- **objdump / nm / strings** – Binary inspection utilities
-- **strace / ltrace** – System and library call tracing
+My reverse engineering toolkit centers around powerful disassemblers and decompilers like **IDA Free / Ghidra** for deep binary analysis. I leverage **GDB / PEDA** for advanced debugging sessions, while **radare2 / Cutter** provides comprehensive binary analysis capabilities. My workflow includes essential utilities like **objdump / nm / strings** for binary inspection, complemented by **strace / ltrace** for tracing system and library calls.
 
 </details>
 
 <details>
 <summary><b>🐧 Operating Systems & Environments</b></summary>
 
-- **Kali Linux** – Primary penetration testing distribution
-- **Fedora** – Daily driver and development environment
-- **BlackArch** – Comprehensive security toolkit
-- **Parrot OS** – Security and privacy-focused distribution
-- **Ubuntu Server** – Production and testing environments
+My operational environment spans multiple specialized Linux distributions, each serving a unique purpose. **Kali Linux** serves as my primary penetration testing distribution, while **Fedora** powers my daily driver and development workflow. For comprehensive security work, I utilize **BlackArch** with its extensive security toolkit, complemented by **Parrot OS** for privacy-focused security operations. **Ubuntu Server** rounds out my infrastructure for production and testing environments.
 
 </details>
 
@@ -260,16 +233,10 @@ Organizations I have created and actively maintain on GitHub:
 |  **Current Certifications** | https://www.credly.com/users/orgito-leka |
 
 ###  Target Certifications
-- [ ] **OSCP** (Offensive Security Certified Professional)
-- [ ] **CEH** (Certified Ethical Hacker)
-- [ ] **CompTIA Security+**
-- [ ] **eJPT** (eLearnSecurity Junior Penetration Tester)
+On my professional development roadmap, I'm pursuing industry-recognized certifications including the **OSCP** (Offensive Security Certified Professional) for advanced penetration testing mastery, **CEH** (Certified Ethical Hacker) to formalize my ethical hacking expertise, **CompTIA Security+** as a foundational security certification, and **eJPT** (eLearnSecurity Junior Penetration Tester) to validate my practical penetration testing skills.
 
 ### 📖 Continuous Learning
--  **42 Network** – Core curriculum with focus on C programming and Unix systems
--  **Security Research** – Daily vulnerability research and exploit analysis
--  **Lab Practice** – Dedicated home lab for security testing and research
--  **Write-ups & Documentation** – Sharing knowledge through technical documentation
+My learning journey is centered around the **42 Network** core curriculum with deep focus on C programming and Unix systems. I engage in daily **security research** involving vulnerability analysis and exploit study. My dedicated home **lab environment** serves as a testing ground for security research and experimentation, while I actively contribute to the security community through detailed **write-ups and technical documentation** that helps others learn from my discoveries.
 
 ---
 
