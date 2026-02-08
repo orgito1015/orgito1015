@@ -74,13 +74,13 @@ Organizations I have created and actively maintain on GitHub:
 <td width="50%">
 
 ###  Security Research
-My research journey explores the intricate world of **vulnerability discovery** through systematic root-cause analysis, where I architect **secure software** using defensive programming principles. I delve deep into **web application attack surfaces**, constantly analyzing how authentication and authorization mechanisms can be strengthened against emerging threats.
+Focused on **vulnerability discovery** through systematic root-cause analysis and secure software architecture using defensive programming principles. Specialized in **web application security**, analyzing authentication/authorization mechanisms and strengthening them against emerging threats.
 
 </td>
 <td width="50%">
 
 ###  System Security
-I navigate through **Linux internals** to implement comprehensive system hardening strategies, while developing **automated security testing** frameworks. My work extends into **container and cloud security** architectures, complemented by hands-on experience with **cryptographic implementations** that form the backbone of secure systems.
+Working with **Linux internals** to implement system hardening strategies and develop **automated security testing** frameworks. Experience spans **container and cloud security** architectures, with practical **cryptographic implementations** for secure system design.
 
 </td>
 </tr>
@@ -93,21 +93,32 @@ I navigate through **Linux internals** to implement comprehensive system hardeni
 ###  Core Competencies
 
 #### Offensive Security
-My offensive security expertise spans **Network & Web Penetration Testing**, where I identify critical vulnerabilities across web applications and network infrastructure. I specialize in **OWASP Top 10** exploitation and remediation, wielding advanced **SQL Injection & XSS** techniques with sophisticated bypass methods. My skills extend to **Authentication Bypass** scenarios involving session management, JWT, and OAuth vulnerabilities, while addressing **Security Misconfigurations** through server hardening and secure deployment practices.
+**Network & Web Penetration Testing** - Identifying critical vulnerabilities in web applications and network infrastructure
+- **OWASP Top 10** exploitation and remediation
+- Advanced **SQL Injection & XSS** techniques with bypass methods
+- **Authentication Bypass** - Session management, JWT, and OAuth vulnerabilities
+- **Security Misconfigurations** - Server hardening and secure deployment
 
 #### Defensive Security
-On the defensive front, I fortify systems through comprehensive **Linux Hardening** using SELinux, AppArmor, iptables, and fail2ban configurations. My **Secure Code Review** capabilities combine static analysis with meticulous manual code auditing. I excel in **Security Monitoring** through log analysis, SIEM integration, and intrusion detection systems, complemented by **Incident Response** expertise in threat detection, forensics, and remediation. My approach is guided by **Threat Modeling** frameworks including STRIDE, attack trees, and systematic risk assessment.
+- **Linux Hardening** - SELinux, AppArmor, iptables, and fail2ban configurations
+- **Secure Code Review** - Static analysis and manual code auditing
+- **Security Monitoring** - Log analysis, SIEM integration, and intrusion detection
+- **Incident Response** - Threat detection, forensics, and remediation
+- **Threat Modeling** - STRIDE, attack trees, and risk assessment
 
 ###  CTF & Competitive Security
 
 **Active Categories:** Web · Crypto · Forensics · OSINT · Reverse Engineering · PWN · Steganography
 
 #### Notable Achievements
-Through my journey in competitive cybersecurity, I've actively participated in multiple CTF competitions across platforms like HTB, THM, and PicoCTF. I document my learning through detailed security writeups and responsible vulnerability disclosures, maintaining continuous skill development through practical challenges that push the boundaries of my expertise.
+Active participant in CTF competitions on platforms like **HTB**, **THM**, and **PicoCTF**. Contributing through detailed security writeups and responsible vulnerability disclosures, with continuous skill development through practical challenges.
 
 ###  Security Research & Projects
 
-My security research encompasses comprehensive **Vulnerability Assessment** through systematic evaluation of application security postures. I engage in **Exploit Development** to understand and create proof-of-concept exploits that demonstrate security weaknesses. I automate security workflows through custom **Python and Bash scripts** for security testing, while contributing **security improvements** to public repositories in the open-source ecosystem.
+- **Vulnerability Assessment** - Systematic evaluation of application security postures
+- **Exploit Development** - Creating proof-of-concept exploits to demonstrate security weaknesses
+- **Security Automation** - Custom Python and Bash scripts for security testing
+- **Open Source Contributions** - Security improvements to public repositories
 
 ---
 
