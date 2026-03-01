@@ -35,24 +35,6 @@
 </div>
 
 ---
-<div align="right">
-  <a href="https://x.com/CTFPlayer1">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://github.com/orgito1015.png" width="60" height="60" style="border-radius: 50%;" alt="Orgito Leka"/>
-          <br/>
-          <strong>Orgito Leka</strong>
-          <br/>
-          <sub>@CTFPlayer1</sub>
-        </td>
-        <td>
-          <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
 
 
 ##  About Me
