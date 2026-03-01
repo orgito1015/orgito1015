@@ -37,7 +37,7 @@
 ---
 <div align="right">
   <a href="https://x.com/CTFPlayer1"><img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="right" width="50" height="50" alt="image" style="margin-bottom: 20px;" style="margin-top: 20px;"/></a>
-  <a href="https://x.com/orgito1015"><img src="https://github.com/user-attachments/assets/dab8301b-24da-4e13-9a98-11519a98b26e" alt="tweet-quote" width="400" style="margin-bottom: 20px;"/></a>
+  <a href="https://github.com/orgito1015"><img src="https://github.com/user-attachments/assets/dab8301b-24da-4e13-9a98-11519a98b26e" alt="tweet-quote" width="400" style="margin-bottom: 20px;"/></a>
 </div>
 
 
