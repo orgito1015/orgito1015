@@ -28,6 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orgitoleka/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/orgito1015)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CTFPlayer1)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/your-id)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/your-profile)
 
