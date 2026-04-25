@@ -67,28 +67,6 @@ Organizations I have created and actively maintain on GitHub:
 
 </div>
 
----
-
-##  Research Interests
-
-<table>
-<tr>
-<td width="50%">
-
-###  Security Research
-Focused on **vulnerability discovery** through systematic root-cause analysis and secure software architecture using defensive programming principles. Specialized in **web application security**, analyzing authentication/authorization mechanisms and strengthening them against emerging threats.
-
-</td>
-<td width="50%">
-
-###  System Security
-Working with **Linux internals** to implement system hardening strategies and develop **automated security testing** frameworks. Experience spans **container and cloud security** architectures, with practical **cryptographic implementations** for secure system design.
-
-</td>
-</tr>
-</table>
-
----
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -120,12 +98,6 @@ Working with **Linux internals** to implement system hardening strategies and de
 ###  Current Certifications
 
 |  **Current Certifications** | https://www.credly.com/users/orgito-leka |
-
-###  Target Certifications
-On my professional development roadmap, I'm pursuing industry-recognized certifications including the **OSCP** (Offensive Security Certified Professional) for advanced penetration testing mastery, **CEH** (Certified Ethical Hacker) to formalize my ethical hacking expertise, **CompTIA Security+** as a foundational security certification, and **eJPT** (eLearnSecurity Junior Penetration Tester) to validate my practical penetration testing skills.
-
-### 📖 Continuous Learning
-My learning journey is centered around the **42 Network** core curriculum with deep focus on C programming and Unix systems. I engage in daily **security research** involving vulnerability analysis and exploit study. My dedicated home **lab environment** serves as a testing ground for security research and experimentation, while I actively contribute to the security community through detailed **write-ups and technical documentation** that helps others learn from my discoveries.
 
 ---
 
