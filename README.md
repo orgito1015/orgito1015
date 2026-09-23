@@ -50,6 +50,7 @@ Active contributor to open-source ecosystems (**Fedora Project**) and continuous
 > *"Security is not a product, but a process."* – Building secure systems through deep understanding and responsible disclosure.
 
 ---
+![TechwithOrgito](Tech%with%Orgito.pnd)
 
 ###  Founded Organizations
 <div align="center">
