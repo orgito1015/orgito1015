@@ -144,6 +144,7 @@ Organizations I have created and actively maintain on GitHub:
 </div>
 
 ---
+![CE](CE.png)
 
 ## Join my Discord Community
 
